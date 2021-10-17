@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d4ed2319a625aa4697dd6036ce75028, type: 3}
+  m_Name: Leo
+  m_EditorClassIdentifier: 
+  _id: 0
+  _name: "L\xE9o"
+  _race: 0
+  _class: 1
+  _life: 100
+  _attack: 10
+  _defence: 8
+  _speed: 3
+  _sprite: {fileID: -3161065415235365283, guid: 26227c03b0206034b8e8cc3710263839, type: 3}
+  _prefab: {fileID: 2877574969113898385, guid: 048d53b30ff773e45aae0cb307b6ec8e, type: 3}

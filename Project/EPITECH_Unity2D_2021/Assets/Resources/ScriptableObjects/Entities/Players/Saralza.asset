@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d4ed2319a625aa4697dd6036ce75028, type: 3}
+  m_Name: Saralza
+  m_EditorClassIdentifier: 
+  _id: 2
+  _name: Saralza
+  _race: 3
+  _class: 3
+  _life: 150
+  _attack: 20
+  _defence: 6
+  _speed: 4
+  _sprite: {fileID: 8991380848721475879, guid: 9ae1322d7a9a3d94f91b71350c00f3fc, type: 3}
+  _prefab: {fileID: 7122746762890558834, guid: 72982434ce82fe24da10aa08d1e077b0, type: 3}

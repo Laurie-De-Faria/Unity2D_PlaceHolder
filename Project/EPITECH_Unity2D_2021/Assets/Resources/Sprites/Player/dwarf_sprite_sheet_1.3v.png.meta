@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: ec9727e92f5ca0449b5c7e1e2994947c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3995430549091572571
+    second: dwarf_spritesheet_static_2
+  - first:
+      213: 9203798021189852715
+    second: dwarf_spritesheet_static_3
+  - first:
+      213: 3329031960520374374
+    second: dwarf_spritesheet_static_4
+  - first:
+      213: 1286327854496442072
+    second: dwarf_spritesheet_static_5
+  - first:
+      213: -5624406281571483811
+    second: dwarf_spritesheet_walk_1
+  - first:
+      213: 4101585159571297185
+    second: dwarf_spritesheet_walk_2
+  - first:
+      213: -3417529606396032811
+    second: dwarf_spritesheet_walk_3
+  - first:
+      213: 6280911813076176274
+    second: dwarf_spritesheet_walk_4
+  - first:
+      213: 2649712656573955441
+    second: dwarf_spritesheet_walk_5
+  - first:
+      213: -621976524674164963
+    second: dwarf_spritesheet_walk_6
+  - first:
+      213: 7616946534798031294
+    second: dwarf_spritesheet_walk_7
+  - first:
+      213: -4547867038058706390
+    second: dwarf_spritesheet_walk_8
+  - first:
+      213: 590265122148023240
+    second: dwarf_spritesheet_meleeattack_1
+  - first:
+      213: 6667527227020474012
+    second: dwarf_spritesheet_meleeattack_2
+  - first:
+      213: 6239890783372648003
+    second: dwarf_spritesheet_meleeattack_3
+  - first:
+      213: 8545169991648637309
+    second: dwarf_spritesheet_meleeattack_4
+  - first:
+      213: 5270079313170354990
+    second: dwarf_spritesheet_meleeattack_5
+  - first:
+      213: -8974047612557473187
+    second: dwarf_spritesheet_meleeattack_6
+  - first:
+      213: -4115508543987207695
+    second: dwarf_spritesheet_meleeattack_7
+  - first:
+      213: -4423693333403255533
+    second: dwarf_spritesheet_die_1
+  - first:
+      213: 775675836807431304
+    second: dwarf_spritesheet_die_2
+  - first:
+      213: 1418670098516284524
+    second: dwarf_spritesheet_die_3
+  - first:
+      213: 1833543002511863964
+    second: dwarf_spritesheet_die_4
+  - first:
+      213: 8884614376960007873
+    second: dwarf_spritesheet_die_5
+  - first:
+      213: 3719178398406890608
+    second: dwarf_spritesheet_die_6
+  - first:
+      213: -1690691167285455688
+    second: dwarf_spritesheet_die_7
+  - first:
+      213: 3731807061187382881
+    second: dwarf_spritesheet_rangedattack_1
+  - first:
+      213: -7841045342466816011
+    second: dwarf_spritesheet_rangedattack_2
+  - first:
+      213: -1778622253048121966
+    second: dwarf_spritesheet_rangedattack_3
+  - first:
+      213: -2321650201830657810
+    second: dwarf_spritesheet_rangedattack_4
+  - first:
+      213: -606157308581255846
+    second: dwarf_spritesheet_rangedattack_5
+  - first:
+      213: 168907829413516759
+    second: dwarf_spritesheet_rangedattack_6
+  - first:
+      213: 7076657489534877882
+    second: dwarf_spritesheet_jump_1
+  - first:
+      213: 8384307114278556029
+    second: dwarf_spritesheet_jump_2
+  - first:
+      213: -1519598200168625321
+    second: dwarf_spritesheet_jump_3
+  - first:
+      213: 891209246601074669
+    second: dwarf_spritesheet_jump_4
+  - first:
+      213: -3812778462367510694
+    second: dwarf_spritesheet_jump_5
+  - first:
+      213: -2639522357455272088
+    second: dwarf_spritesheet_hurt_1
+  - first:
+      213: 7722679969641485409
+    second: dwarf_spritesheet_hurt_2
+  - first:
+      213: -785571355488210030
+    second: dwarf_spritesheet_hurt_3
+  - first:
+      213: -4656694542403894776
+    second: dwarf_spritesheet_hurt_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dwarf_spritesheet_static_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 226
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927bd4b4ca595d150800000000000000
+      internalID: 5896783854341830441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_static_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 226
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a427a495116d88c0800000000000000
+      internalID: -3995430549091572571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_static_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 226
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed67559857abf70800000000000000
+      internalID: 9203798021189852715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_static_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 226
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683dbc1ee8133e20800000000000000
+      internalID: 3329031960520374374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_static_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 226
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d663ff4e54f9d110800000000000000
+      internalID: 1286327854496442072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 195
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fb47a494812f1b0800000000000000
+      internalID: -5624406281571483811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 195
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d244b8f1cbe830800000000000000
+      internalID: 4101585159571297185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 196
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d842690eee7290d0800000000000000
+      internalID: -3417529606396032811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc5fb24084a2750800000000000000
+      internalID: 6280911813076176274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 196
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d72f35f9ba5c420800000000000000
+      internalID: 2649712656573955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 196
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171a2c65ab4e57f0800000000000000
+      internalID: -621976524674164963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 196
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb977cf5484d4b960800000000000000
+      internalID: 7616946534798031294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_walk_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 194
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8dc6460bb2e0c0800000000000000
+      internalID: -4547867038058706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7fe0500b013800800000000000000
+      internalID: 590265122148023240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 165
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96fcc8dfa0d78c50800000000000000
+      internalID: 6667527227020474012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 166
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e192c6b9b889650800000000000000
+      internalID: 6239890783372648003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 166
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d717b8945da869670800000000000000
+      internalID: 8545169991648637309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 166
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2357a79635132940800000000000000
+      internalID: 5270079313170354990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 162
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac1103e37c57380800000000000000
+      internalID: -8974047612557473187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_meleeattack_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 161
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1be8db8c6c2e6c0800000000000000
+      internalID: -4115508543987207695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d3c3bd952eb92c0800000000000000
+      internalID: -4423693333403255533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c2c95011c3ca00800000000000000
+      internalID: 775675836807431304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64188b20f020b310800000000000000
+      internalID: 1418670098516284524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907f1175ad027910800000000000000
+      internalID: 1833543002511863964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce970104bd7c4b70800000000000000
+      internalID: 8884614376960007873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074595d5c0d2d9330800000000000000
+      internalID: 3719178398406890608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_die_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45f0d47557988e0800000000000000
+      internalID: -1690691167285455688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4e5c00ca0ac330800000000000000
+      internalID: 3731807061187382881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c88efdc20f2390800000000000000
+      internalID: -7841045342466816011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29536710c701157e0800000000000000
+      internalID: -1778622253048121966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07b2b2177d7cfd0800000000000000
+      internalID: -2321650201830657810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e100b32f7697f0800000000000000
+      internalID: -606157308581255846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_rangedattack_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d599f3a6c4185200800000000000000
+      internalID: 168907829413516759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_jump_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab085d43e76553260800000000000000
+      internalID: 7076657489534877882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_jump_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719a5206ea0b5470800000000000000
+      internalID: 8384307114278556029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_jump_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b40a5fc7d49eae0800000000000000
+      internalID: -1519598200168625321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_jump_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7533486163e5c00800000000000000
+      internalID: 891209246601074669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_jump_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 65
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f035f703a461bc0800000000000000
+      internalID: -3812778462367510694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_hurt_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674d2396688e5bd0800000000000000
+      internalID: -2639522357455272088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_hurt_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 34
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164518014887c2b60800000000000000
+      internalID: 7722679969641485409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_hurt_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 34
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293376aa3071915f0800000000000000
+      internalID: -785571355488210030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dwarf_spritesheet_hurt_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80204846cf8106fb0800000000000000
+      internalID: -4656694542403894776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
